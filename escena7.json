@@ -82,7 +82,7 @@
 ],
 "pdfs": {
 "guion": "Guión Escena VII.pdf",
-"partitura": "Merengue del primer dedo Partitura.pdf"
+"partitura": "Merengue del Primer Dedo Partitura.pdf"
 },
 "centros": {
 "items": [
@@ -117,4 +117,5 @@
 { "term": "llamada-respuesta", "def": "diálogo musical donde una sección ‘pregunta’ y otra contesta." },
 { "term": "backlight", "def": "contraluz desde el fondo que crea siluetas y atmósfera." }
 ]
+
 }
