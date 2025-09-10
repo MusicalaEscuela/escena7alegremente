@@ -1,0 +1,120 @@
+{
+"meta": {
+"title": "AlegreMente 2025 · Escena 7",
+"subtitle": "Isla Alegría / Merengue del primer dedo",
+"footer": "AlegreMente 2025 · Escena 7 · Guía práctica",
+"images": {
+"hero": "Escena 7.jpg",
+"heroAlt": "Escena 7 – Isla Alegría / Merengue del primer dedo"
+}
+},
+"audio": {
+"label": "🎶 Audio: “Merengue del primer dedo”",
+"sources": ["Merengue del primer dedo.mp3", "Merengue del primer dedo - Orquesta.mp3"]
+},
+"filters": {
+"areas": ["teatro", "musica", "danza", "plastica", "luces", "sonido", "produccion"],
+"centros": ["arroyo", "betania", "colegio", "jerusalen", "lucero", "padre", "santo"],
+"log": ["vestuario", "sonido", "proyeccion", "materiales", "luces", "utileria"]
+},
+"resumen": {
+"text": "Sofía llega a una <b>isla luminosa</b> donde el <em>cuerpo marca el compás</em> desde un solo dedo hasta todo el ser. El merengue abre el juego: <b>gozo, ritmo y libertad corporal</b> sin vergüenza. La escena celebra el placer de moverse y <b>habitar el cuerpo con alegría</b>.",
+"duration": "10 min",
+"tags": ["Teatro · Danza · Artes Plásticas", "Música: Orquesta (Merengue del primer dedo)"]
+},
+"proposito": [
+"<strong>Reconectar</strong> con el placer del movimiento como derecho corporal.",
+"<strong>Desarrollar</strong> escucha rítmica desde micro-gestos a secuencias grupales.",
+"<strong>Construir</strong> confianza y juego colectivo en clave caribe."
+],
+"pasos": [
+"Ambiente de <em>isla</em>: mar y cielo proyectados; Sofía entra <b>descalza</b>.",
+"El grupo baila con <b>pies activos y manos quietas</b>; Sofía mueve un <b>solo dedo</b>.",
+"Voz desde el mar: “<em>¡El cuerpo canta con lo que tú le des!</em>”. Entra la música.",
+"Sofía suma <b>dedos → hombros → cadera → rodillas</b>; el elenco imita en cadena.",
+"Cierre en <b>espiral</b> alrededor de Sofía; giro libre con risas y respiración final."
+],
+"plastica": {
+"items": [
+"<strong>Fondo</strong>: <b>isla tropical</b> (cielo y mar proyectados: <code>Fondo 7.jpg</code>).",
+"<strong>Elementos</strong>: <b>frutas gigantes</b> de papel maché y palmeras en silueta.",
+"<strong>Accesorios</strong>: <b>collares de flores</b>, pañuelos, tocados playeros."
+],
+"assets": [
+{ "src": "Fondo 7.jpg" },
+{ "src": "Escena 7.jpg" }
+]
+},
+"luces": [
+{ "Cue": "<b>L1 – Amanecer</b>", "Estado": "Ámbar cálido + azul marino suave", "Detalle": "Apertura con mar y cielo; calma solar." },
+{ "Cue": "<b>L2 – El dedo marca</b>", "Estado": "Recorte medio", "Detalle": "Foco a Sofía sentada moviendo un dedo." },
+{ "Cue": "<b>L3 – Merengue</b>", "Estado": "General cálido", "Detalle": "Sube percusión; destellos suaves en coros." },
+{ "Cue": "<b>L4 – Cadena</b>", "Estado": "Ámbar + contras puntuales", "Detalle": "Secuencias por grupos (imitar-repetir)." },
+{ "Cue": "<b>L5 – Espiral final</b>", "Estado": "Calidez total + backlight", "Detalle": "Giro de Sofía al centro; fade respirado." }
+],
+"sonido": [
+"<b>Compás/tempo:</b> 2/4 vivo; comenzar con micro-gestos sobre intro ligera.",
+"<b>Arreglo:</b> <em>llamada-respuesta</em> entre vientos y cuerdas; percusión caribeña presente sin tapar señales escénicas.",
+"<b>Dinámicas:</b> crecer en cadena de partes del cuerpo; <em>diminuendo</em> para espiral y respiración final.",
+"<b>Refuerzo:</b> monitores frontales sutiles; cuidar balance de güira/bajo.",
+"<b>Click/Conteo:</b> opcional 2–4 compases hablado para ensayo."
+],
+"vestuario": {
+"images": [
+{ "title": "Playero tropical · conjunto 1", "src": "vestuario-playero1.jpg", "file": "vestuario-playero1.jpg" },
+{ "title": "Playero tropical · conjunto 2", "src": "vestuario-playero2.jpg", "file": "vestuario-playero2.jpg" },
+{ "title": "Accesorios florales", "src": "accesorios-flores.jpg", "file": "accesorios-flores.jpg" }
+]
+},
+"escenario": {
+"images": [
+{ "title": "Arte escena 7", "src": "Escena 7.jpg", "alt": "Arte de Escena 7" },
+{ "title": "Fondo 7", "src": "Fondo 7.jpg", "alt": "Cielo y mar tropicales" }
+]
+},
+"checklist": [
+"[ ] Proyección <b>Fondo 7.jpg</b> (cielo y mar) operativa.",
+"[ ] <b>Collares de flores</b> y accesorios playeros listos.",
+"[ ] <b>Frutas</b> y <b>palmeras</b> seguras (pasos libres de tropiezos).",
+"[ ] Cues de luces L1–L5 programados y probados.",
+"[ ] Cadena de micro-gestos ensayada (dedo→hombros→cadera→rodillas).",
+"[ ] Marcaje de giro final y respiración de cierre."
+],
+"pdfs": {
+"guion": "Guión Escena VII.pdf",
+"partitura": "Merengue del primer dedo Partitura.pdf"
+},
+"centros": {
+"items": [
+"<b>Teatro:</b> Padre Misericordioso B",
+"<b>Danza:</b> Padre Misericordioso B",
+"<b>Artes plásticas:</b> Padre Misericordioso B"
+],
+"docentesText": "Docentes responsables: Eryck Martínez, Camila Pirajan, Santiago Gutiérrez"
+},
+"materiales": [
+"Vestuario <em>muy playero</em>, sandalias, pañuelos, tocados de flores. <span class='pill'>vestuario</span>",
+"Accesorios: collares de flor (lana/papel), pulseras, gafas lúdicas. <span class='pill'>materiales</span>",
+"Utilería: frutas tropicales de papel maché; canastos livianos. <span class='pill'>utileria</span>",
+"Proyección: <code>Fondo 7.jpg</code> con cielo y mar; atardecer para cierre. <span class='pill'>proyeccion</span>",
+"Luces: cálidos caribe + azul marino suave para ambientes. <span class='pill'>luces</span>"
+],
+"recursos": [
+{ "title": "Guión Escena VII (PDF)", "href": "Guión Escena VII.pdf", "areas": ["teatro", "produccion"], "icon": "📄" },
+{ "title": "Carpeta de Partituras – Merengue del primer dedo", "href": "[PON_AQUÍ_EL_ENLACE_DE_LA_CARPETA_DE_PARTITURAS]", "areas": ["musica"], "icon": "🎼" },
+{ "title": "Pista – Merengue del primer dedo (MP3)", "href": "Merengue del primer dedo.mp3", "areas": ["musica"], "icon": "🎵" }
+],
+"docentes": {
+"hint": "Sugerencia: cada docente puede tener su mini guía con materiales y tareas.",
+"items": [
+{ "name": "Eryck Martínez", "url": "docentes/brenda.html", "areas": ["teatro"] },
+{ "name": "Camila Pirajan", "url": "docentes/camila.html", "areas": ["danza"] },
+{ "name": "Santiago Gutiérrez", "url": "docentes/santiago.html", "areas": ["plastica"] }
+]
+},
+"glosario": [
+{ "term": "merengue", "def": "ritmo binario caribeño (2/4) de carácter festivo y bailable." },
+{ "term": "llamada-respuesta", "def": "diálogo musical donde una sección ‘pregunta’ y otra contesta." },
+{ "term": "backlight", "def": "contraluz desde el fondo que crea siluetas y atmósfera." }
+]
+}
