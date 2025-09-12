@@ -10,7 +10,7 @@
 },
 "audio": {
 "label": "🎶 Audio: “Merengue del primer dedo”",
-"sources": ["Merengue del primer dedo.mp3", "Merengue del primer dedo - Orquesta.mp3"]
+"sources": ["Merengue del Primer Dedo.mp3", "Merengue del Primer Dedo.mp3]
 },
 "filters": {
 "areas": ["teatro", "musica", "danza", "plastica", "luces", "sonido", "produccion"],
@@ -119,3 +119,4 @@
 ]
 
 }
+
