@@ -116,8 +116,16 @@
 { "term": "merengue", "def": "ritmo binario caribeño (2/4) de carácter festivo y bailable." },
 { "term": "llamada-respuesta", "def": "diálogo musical donde una sección ‘pregunta’ y otra contesta." },
 { "term": "backlight", "def": "contraluz desde el fondo que crea siluetas y atmósfera." }
-]
-
+],
+  "pistas": [
+    {
+      "title": "Danza · Escena 7 — Levantapolvos",
+      "href": "DANZA ESCENA 7 Levantapolvos.m4a",
+      "areas": ["danza"],
+      "icon": "🎧"
+    }
+  ]
 }
+
 
 
