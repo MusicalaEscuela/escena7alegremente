@@ -121,7 +121,8 @@
     { "title": "Guión Escena VII (PDF)", "href": "Guión Escena VII.pdf", "areas": ["teatro", "produccion"], "icon": "📄" },
     { "title": "Partitura – Merengue del Primer Dedo (PDF)", "href": "Merengue del Primer Dedo Partitura.pdf", "areas": ["musica"], "icon": "🎼" },
     { "title": "Pista – Merengue del Primer Dedo (MP3)", "href": "Merengue del Primer Dedo.mp3", "areas": ["musica"], "icon": "🎵" },
-    { "title": "Danza – Levantapolvos (M4A)", "href": "DANZA ESCENA 7 Levantapolvos.m4a", "areas": ["danza","musica"], "icon": "🎵" }
+    { "title": "Danza – Levantapolvos (M4A)", "href": "DANZA ESCENA 7 Levantapolvos.m4a", "areas": ["danza","musica"], "icon": "🎵" },
+    { "title": "Ensayo Danzas y Teatro - Padre Misericordioso B (oct)", "href": "https://www.youtube.com/watch?v=B5TigYhQi34", "areas": ["danza"], "icon": "▶️" }
   ],
 
   "docentes": {
@@ -147,3 +148,4 @@
     "data": ["escena7.json"]
   }
 }
+
